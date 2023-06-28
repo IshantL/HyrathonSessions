@@ -1,3 +1,5 @@
+## How IT Companies work basic overview:
+
 IT companies, or Information Technology companies, operate within the technology industry to provide a broad range of technology-related services or products. These can include hardware manufacturing, software development, consulting, IT services, and more. 
 
 Here's a basic overview of how IT companies generally work, especially for beginners:
@@ -57,6 +59,9 @@ IT companies earn revenue in several ways, including selling products, providing
 IT companies need to stay on top of technology trends and continuously innovate. This could involve adapting to new software development methodologies, implementing emerging technologies like AI or Blockchain, and more.
 
 Remember that IT is a vast field, and how an IT company operates can depend on many factors such as the type of services/products they offer, their size, their clients, etc.
+
+
+## Software development teams overview:
 
 
 Software development teams are composed of individuals who each have a specific role to play in creating, deploying, and maintaining a software application. They utilize a systematic approach to develop software in which various technologies, procedures, and methodologies are employed. Here's a basic overview of how software development teams generally work:
